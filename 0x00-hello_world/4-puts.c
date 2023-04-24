@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - Betty
- * Return: 0 made me do it
+ * main - A program that prints a line with puts function
+ * Return: 0 (Success)
  */
 int main(void)
 {
